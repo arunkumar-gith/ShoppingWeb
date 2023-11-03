@@ -1,11 +1,11 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-### Deployed Link
+# Deployed Link
 [https://6545175708a46f09303d10d6--whimsical-frangollo-2dbab4.netlify.app/]
 
 
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 ## Available Scripts
